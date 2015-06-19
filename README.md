@@ -1,7 +1,5 @@
 # bigfish
 
----
-
 - 缩短知乎上丧心病狂加空行的答案的脚本
 安装：先装[GreaseMonkey][1]再点击：[shorter-answer-in-zhihu.user.js][2]
   + 使用前：
