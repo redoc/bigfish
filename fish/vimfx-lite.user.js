@@ -4,7 +4,10 @@
 // @include     *
 // @version     1.0
 // @grant       none
+// @icon        https://roboq.sinaapp.com/roboq/flower.ico
+// @updateURL   https://github.com/redoc/bigfish/raw/master/fish/vimfx-lite.user.js
 // ==/UserScript==
+
 var step = 80;
 var gap = 40;
 var mode = 'normal';
