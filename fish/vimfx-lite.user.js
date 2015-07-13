@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        vimfx-lite
+// @name        VimFx Lite
 // @namespace   redoc
 // @include     *
 // @version     1.0.1
