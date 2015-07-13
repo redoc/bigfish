@@ -2,7 +2,7 @@
 // @name        vimfx-lite
 // @namespace   redoc
 // @include     *
-// @version     1.0
+// @version     1.0.1
 // @grant       none
 // @icon        https://roboq.sinaapp.com/roboq/flower.ico
 // @updateURL   https://github.com/redoc/bigfish/raw/master/fish/vimfx-lite.user.js
