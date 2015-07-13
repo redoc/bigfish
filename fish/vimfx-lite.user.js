@@ -2,7 +2,7 @@
 // @name        VimFx Lite
 // @namespace   redoc
 // @include     *
-// @version     1.0.1
+// @version     1.0.2
 // @grant       none
 // @icon        https://roboq.sinaapp.com/roboq/flower.ico
 // @updateURL   https://github.com/redoc/bigfish/raw/master/fish/vimfx-lite.user.js
@@ -76,6 +76,9 @@ window.addEventListener('keydown', function (e) {
       break;
     case 'M': // 下一页
       delta.top += (body.clientHeight - gap);
+      break;
+    case 'R': // 刷新
+      location.reload();
       break;
     case 'X': // 关闭
       // 必须设置：about:config 中的 dom.allow_scripts_to_close_windows 为 true
