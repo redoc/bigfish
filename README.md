@@ -4,6 +4,7 @@
 ## [VimFx][5]的轻量级版本
 
 - 安装
+
     先装[GreaseMonkey][1]再点击：[vimfx-lite.user.js][6]
 
 - 快捷键列表（不区分大小写）
@@ -26,9 +27,11 @@
 ## 缩短知乎上丧心病狂加空行的答案的脚本
 
 - 安装
+
     先装[GreaseMonkey][1]再点击：[shorter-answer-in-zhihu.user.js][2]
 
 - 效果
+
     + 使用前：
     ![使用前效果][3]
 
